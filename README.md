@@ -1,2 +1,3 @@
 # SQL
-Module 12 - MySQL
+Module 12 - SQL Challenge: Employee Tracker
+
